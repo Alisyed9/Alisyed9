@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alisyed9
+- 👋 Hi, I’m @SYED SUBTAIN ALI SHERAZI
 - 👀 I,m currently Studying Computer science 
 - 🌱 I’m currently learning on Cyber Security 
 - 💞️ I’m looking to collaborate on open source projects 
